@@ -1,0 +1,28 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "Utility function that provides a pipeline-like operator for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edorsey/pipeline.git"
+  },
+  "keywords": [
+    "Pipeline",
+    "JS",
+    "NodeJS"
+  ],
+  "author": "Eric Dorsey (eric@ericdorsey.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edorsey/pipeline/issues"
+  },
+  "homepage": "https://github.com/edorsey/pipeline#readme",
+  "dependencies": {
+    "lodash.curry": "^4.1.1",
+    "lodash.flow": "^3.5.0"
+  }
+}
