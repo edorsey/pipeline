@@ -1,5 +1,5 @@
 {
-  "name": "pipeline",
+  "name": "@edorsey/pipeline",
   "version": "1.0.0",
   "description": "Utility function that provides a pipeline-like operator for JavaScript",
   "main": "index.js",
